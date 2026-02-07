@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Paul doniyal
 <h3 align="center">A passionate developer and analyst </h3>
 Cyber security Engineer @ AAA college
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
-- 🌱 I’m currently learning DSA  and SOC<br/>
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRiZ3VsemFrNDNvcjJ6bGF5bDliMmQ0a3Rqc3VtYWRwN3FiMTFkOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">                                              
+- 🌱 I’m currently learning SOC and DSA in python<br/>
 - 🤝 I’m looking for help with **Internship** <br/>
 - ⚡  Blue Team
   
