@@ -5,11 +5,10 @@ Aspiring SOC Analyst with a strong interest in Cybersecurity, Network Security, 
 Cyber security Engineer  Student (4th year)@ AAA college
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRiZ3VsemFrNDNvcjJ6bGF5bDliMmQ0a3Rqc3VtYWRwN3FiMTFkOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">                                              
 -  I’m currently learning L1 SOC and L2 SOC<br/>
--  SOC Analyst in the Making
+-  SOC Analyst in the Making<br/>
 -  I’m looking for Soc Related Internship <br/>
 -  Blue Team 
  
-
 <h3 align="left">Languages and Tools:</h3>
 
 - **SIEM:** Splunk · ELK Stack
@@ -18,7 +17,7 @@ Cyber security Engineer  Student (4th year)@ AAA college
 - **Languages:** Python · Bash
 - **OS:** Windows · Linux
 - **others:**
-- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
  
 <h3 align="left">Social Presence</h3>
