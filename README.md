@@ -1,8 +1,9 @@
 ## Hi there 👋 It's me Paul doniyal
-<h3 align="center">A passionate developer and analyst </h3>
+<h3 align="center">A passionate Soc analyst </h3>
 Cyber security Engineer @ AAA college
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRiZ3VsemFrNDNvcjJ6bGF5bDliMmQ0a3Rqc3VtYWRwN3FiMTFkOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">                                              
 - 🌱 I’m currently learning SOC and DSA in python<br/>
+- ⚡
 - 🤝 I’m looking for help with **Internship** <br/>
 - ⚡  Blue Team
   
@@ -13,7 +14,7 @@ Cyber security Engineer @ AAA college
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> <a><img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="kali linux" width="40" height="40"/></a>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/> <a>
 
 ![Paul doniyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpual73&theme=dark&show_icons=true&&hide=issues,contribs)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/J_PAUL_DONIYAL?theme=dark&font=Sansita&ext=heatmap)](https://leetcode.com/J_PAUL_DONIYAL/)
