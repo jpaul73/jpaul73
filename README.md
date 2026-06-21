@@ -1,11 +1,13 @@
-## Hi there 👋 It's me Paul doniyal
+## Hi there 👋, I'm Paul Doniyal
+
+Aspiring SOC Analyst with a strong interest in Cybersecurity, Network Security, SIEM, and Incident Response. Currently building hands-on SOC labs using Splunk and Elastic Security while expanding my knowledge of networking and threat detection.
 <h3 align="center">A passionate Soc analyst </h3>
 Cyber security Engineer  Student (4th year)@ AAA college
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXRiZ3VsemFrNDNvcjJ6bGF5bDliMmQ0a3Rqc3VtYWRwN3FiMTFkOSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif">                                              
-- 🌱 I’m currently learning L1 SOC and L2 SOC<br/>
-- ⚡ SOC Analyst in the Making
-- 🤝 I’m looking for help with **Internship** <br/>
-- ⚡ Blue Team 
+-  I’m currently learning L1 SOC and L2 SOC<br/>
+-  SOC Analyst in the Making
+-  I’m looking for Soc Related Internship <br/>
+-  Blue Team 
  
 
 <h3 align="left">Languages and Tools:</h3>
